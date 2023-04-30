@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Radiator/static/css/main.27b38578.css",
+    "main.js": "/Radiator/static/js/main.030d6b98.js",
+    "index.html": "/Radiator/index.html",
+    "main.27b38578.css.map": "/Radiator/static/css/main.27b38578.css.map",
+    "main.030d6b98.js.map": "/Radiator/static/js/main.030d6b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b38578.css",
+    "static/js/main.030d6b98.js"
+  ]
+}
