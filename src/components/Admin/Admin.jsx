@@ -36,7 +36,7 @@ function Admin() {
       <h1 className={styles.heading}>Admin Section</h1>
       <div className={styles.form_container}>
         <div className={styles.left}>
-          <img className={styles.img} src="./images/login.jpg" alt="login" />
+          <img className={styles.img} src="https://raw.githubusercontent.com/Avverma9/Radiator/main/public/images/login.jpg" alt="login" />
         </div>
         <div className={styles.right}>
           <h2 className={styles.from_heading}>Log in</h2>
