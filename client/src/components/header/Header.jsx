@@ -11,7 +11,7 @@ const Header = () => {
 
   return (
     <nav>
-      <img className="header__icon" src="/logo.png" alt="FilmyGyan Logo" />
+      <img className="header__icon" src="https://github.com/Avverma9/Radiator/blob/main/public/logo.png?raw=true" alt="FilmyGyan Logo" />
 
       <div className={`menu-icon ${isOpen ? "open" : ""}`} onClick={toggleMenu}>
         <span></span>
