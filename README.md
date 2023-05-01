@@ -1,9 +1,5 @@
 # Radiator
-Site is Live at https://avverma9.github.io/Radiator/
-Due to some reason in deployed site Logo and images are not visible 
-For Proper View Visit Source run it on localHost
-
-
+Site is Live at https://644f558ccbc6c4572f1d0e48--darling-pastelito-b63bc7.netlify.app/
 
 Prove your skills by creating a unique website where the below points are mandatory.
 • Header
