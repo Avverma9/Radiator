@@ -1,5 +1,11 @@
 # Radiator
 Site is Live at https://avverma9.netlify.app/
+Both Front end and backend part is now live
+
+Admin by default email is = admin@example.com
+password = admin
+
+after admin successful login you will be able to see the details of contacted peoples
 
 Prove your skills by creating a unique website where the below points are mandatory.
 • Header
