@@ -1,5 +1,7 @@
 # Radiator
 Site is Live at https://avverma9.netlify.app/
+* For full project view must access source code in live site contact page is not appearing
+* Contact US page is in footer when you scroll it down due to front end deployment it might face error
 Both Front end and backend part is now live
 
 Admin by default email is = admin@example.com
